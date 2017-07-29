@@ -10,3 +10,4 @@ master
 dev
 github
 pull github
+可视化工具解决冲突
